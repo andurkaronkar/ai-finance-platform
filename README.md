@@ -1,4 +1,6 @@
 # AI Finance Platform — Full Stack AI Finance Platform with Next.js, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandurkaronkar%2Fai-finance-platform.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandurkaronkar%2Fai-finance-platform?ref=badge_shield)
+
 
 
 ### Make sure to create a `.env` file with following variables -
@@ -20,3 +22,7 @@ RESEND_API_KEY=
 
 ARCJET_KEY=
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandurkaronkar%2Fai-finance-platform.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandurkaronkar%2Fai-finance-platform?ref=badge_large)
